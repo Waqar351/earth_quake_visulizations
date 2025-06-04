@@ -12,7 +12,7 @@ This project analyzes historical earthquake data in Japan to identify the most s
 
 ## Final Visualization
 
-![Japan Earthquake Map](output_15_0.png)
+![Japan Earthquake Map](src/Japan_earthquake_analysis/japan_animated-scatter-v2.gif)
 
 This plot illustrates the spatial distribution and magnitude of earthquakes across Japan — each point's size and color represent the earthquake's intensity.
 
