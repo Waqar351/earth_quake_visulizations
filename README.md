@@ -2,6 +2,10 @@
 
 This project analyzes historical earthquake data in Japan to identify the most seismically active periods and regions across the country. Using Python and visualization libraries, it highlights temporal and spatial patterns in earthquake activity — including intensity, frequency, and distribution over time.
 
+![Japan Earthquake Map](src/Japan_earthquake_analysis/japan_animated-scatter-v2.gif)
+
+This plot illustrates the spatial distribution and magnitude of earthquakes across Japan — each point's size and color represent the earthquake's intensity.
+
 ## Key Features
 
 - Load and preprocess real earthquake data
@@ -9,12 +13,6 @@ This project analyzes historical earthquake data in Japan to identify the most s
 - Geographic heatmaps and scatter plots showing seismic activity
 - Identify the year with the highest number of significant earthquakes
 - Fully reproducible environment with Poetry
-
-## Final Visualization
-
-![Japan Earthquake Map](src/Japan_earthquake_analysis/japan_animated-scatter-v2.gif)
-
-This plot illustrates the spatial distribution and magnitude of earthquakes across Japan — each point's size and color represent the earthquake's intensity.
 
 ## Technologies Used
 
